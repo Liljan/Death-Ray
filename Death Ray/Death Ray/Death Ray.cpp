@@ -2,12 +2,17 @@
 //
 
 #include "stdafx.h"
-#include <iomanip>
+#include <iostream>
+
+#include <glm\glm.hpp>
+
+using namespace glm;
+using namespace std;
 
 
 int main()
 {
-	system("PAUSE");
+	system("Pause");
     return 0;
 }
 
